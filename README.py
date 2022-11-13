@@ -1,3 +1,0 @@
-- 👋 Olá me chamo Alex
-- <3 Python3
-- 🌱 Estou estudando recentemente HTML5, CSS3, Javascript e GIT
