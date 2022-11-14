@@ -23,13 +23,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: alexgiovani35@gmail.com">
+    <a href = "mailto: alexgiovani35@gmail.com" target="blank_">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/alex-giovani-hirsch/">
+    <a href = "https://www.linkedin.com/in/alex-giovani-hirsch/" target="blank_">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/alex_giovani_hirsch/">
+    <a href = "https://www.instagram.com/alex_giovani_hirsch/" target="blank_">
       <img width="25" src="instagram.png">
     </a>
 </div>
