@@ -1,12 +1,10 @@
 ## Bem vindo ao meu Github!
 
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex4gtx&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex4gtx&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex4gtx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex4gtx&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Melhores Tecnologias <3</h1>
@@ -19,7 +17,6 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">-->
    </div>
-    
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: alexgiovani35@gmail.com" target="blank_">
@@ -32,5 +29,4 @@
       <img width="25" src="https://user-images.githubusercontent.com/95112008/201742502-c36929af-4460-4265-83c9-37102d724c9d.png">
     </a>
 </div>
-  
 ![Snake animation](https://github.com/Alex4gtx/Alex4gtx/blob/output/github-contribution-grid-snake.svg)
