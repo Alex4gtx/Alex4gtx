@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <!--<img align="left" height="250" alt="coding-time" src="code.gif">-->
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,3 +35,4 @@
 </div>
   
 ![Snake animation](https://github.com/Alex4gtx/Alex4gtx/blob/output/github-contribution-grid-snake.svg)
+![linkedin](https://user-images.githubusercontent.com/95112008/201741966-c0ddff1c-b9b3-4148-9b77-aa5e84d8c6be.svg)
