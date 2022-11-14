@@ -20,7 +20,7 @@
         <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">-->
     </div>
   
-    <h1 align="center">Redes Sociais</h1>
+<h1 align="center">Redes Sociais</h1>
     <a href = "mailto: alexgiovani35@gmail.com" target="blank_">
         <img width="30" src="https://user-images.githubusercontent.com/95112008/201742385-77c34986-3624-4ae9-844f-3e8e34d3d7a5.svg">
     </a>
