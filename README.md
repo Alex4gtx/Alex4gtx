@@ -27,7 +27,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/alex-giovani-hirsch/" target="blank_">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="https://user-images.githubusercontent.com/95112008/201741966-c0ddff1c-b9b3-4148-9b77-aa5e84d8c6be.svg">
     </a>
     <a href = "https://www.instagram.com/alex_giovani_hirsch/" target="blank_">
       <img width="25" src="instagram.png">
@@ -35,4 +35,4 @@
 </div>
   
 ![Snake animation](https://github.com/Alex4gtx/Alex4gtx/blob/output/github-contribution-grid-snake.svg)
-![linkedin](https://user-images.githubusercontent.com/95112008/201741966-c0ddff1c-b9b3-4148-9b77-aa5e84d8c6be.svg)
+![linkedin]()
