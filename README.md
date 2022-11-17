@@ -7,9 +7,9 @@
 <br>
 <div  align="center">
     <div style="display: inline_block">
+        <img align="left" height="250" alt="coding-time" src="https://user-images.githubusercontent.com/95112008/201758416-e59d627e-5ec9-4ad5-8835-6e1ef11d3ced.gif">
         <br>
         <h1 align="center">Melhores Tecnologias <3</h1>
-        <img align="left" height="250" alt="coding-time" src="https://user-images.githubusercontent.com/95112008/201758416-e59d627e-5ec9-4ad5-8835-6e1ef11d3ced.gif">
         <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <!--<img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
